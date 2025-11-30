@@ -12,7 +12,7 @@
 	<artifactId>jpademo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpademo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Spring Boot Data JPA Relationships Demo</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -24,7 +24,7 @@
 		<connection/>
 		<developerConnection/>
 		<tag/>
-		<url/>
+        <url>https://github.com/iridiumcao/spring-boot-jpa-relationships-demo</url>
 	</scm>
 	<properties>
 		<java.version>25</java.version>
